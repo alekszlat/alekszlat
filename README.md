@@ -1,4 +1,5 @@
 <h1 align="center"> Aleksandar “Maldraxes” Zlatanov</h1>
+<h1 align="center"> Zytherion </h1>
 
 > **Curious technophile** exploring the frontiers of AI, new frameworks, and cross-language integration.
 
