@@ -1,4 +1,4 @@
-<h1 align="center"> Zytherion </h1>
+<h1 align="center"> Alexander Zlatanov </h1>
 
 > **Curious technophile** exploring the frontiers of AI, new frameworks, and cross-language integration.
 
