@@ -2,42 +2,45 @@
   Alexander Zlatanov
 </h1>
 
-> **Curious technophile** exploring the frontiers of AI, new frameworks, and cross-language integration.
+> **Software Engineering student and aspiring developer** focused on continuous learning, practical development, and building reliable software.
 
 ---
 
 ## 🧑‍💻 About Me
 
-A perpetual learner driven by:
+A motivated learner focused on:
 
-- **Emerging Technologies** — staying current with AI tools, automation libraries, and innovative frameworks
-- **Cross-Language Projects** — combining different languages to get the best out of both worlds
-- **Modern Workflows** — Embracing virtual environments, CI/CD pipelines, containerization, and live-reload tools
-- **Collaboration & Growth** — open to sharing knowledge, pairing on code, and exploring new ideas
+* **Software Development** — building web and desktop applications while improving my problem-solving and programming skills
+* **AI & Emerging Technologies** — exploring AI tools, automation, and modern frameworks through study and practical projects
+* **Cross-Language Development** — combining different languages and technologies to create effective software solutions
+* **Modern Workflows** — working with Git, virtual environments, CI/CD pipelines, containerization, and development tools
+* **Professional Growth** — gaining hands-on experience through freelancing, personal projects, collaboration, and continuous learning
 
 > ⚡ Fun fact: Python is named after **Monty Python**, not the snake!
 
 ---
 
 ## 🌐 Connect with Me
+<p align="center">
+  I am open to junior software development opportunities, freelance work,
+  collaborative projects, and connecting with other developers.
+</p>
 
 <p align="center">
   <a href="mailto:alexzlat2005724@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://www.linkedin.com/in/alexander-zlatanov-a5b346334/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+<p align="center">
+  <strong>Email:</strong> alexzlat2005724@gmail.com
+</p>
+
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -161,6 +164,7 @@ A perpetual learner driven by:
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
